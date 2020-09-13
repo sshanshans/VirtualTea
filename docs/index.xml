@@ -2,58 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Math/Stat Virtual Tea</title>
-    <link>https://sshanshans.github.io/</link>
+    <link>https://sshanshans.github.io/VirtualTea/</link>
     <description>Recent content on Math/Stat Virtual Tea</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright> </copyright>
     <lastBuildDate>Thu, 10 Sep 2020 11:40:11 +0200</lastBuildDate>
     
-	<atom:link href="https://sshanshans.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sshanshans.github.io/VirtualTea/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>#4: Narayanan Rengaswamy</title>
-      <link>https://sshanshans.github.io/blog/4/</link>
+      <link>https://sshanshans.github.io/VirtualTea/blog/4/</link>
       <pubDate>Thu, 10 Sep 2020 11:40:11 +0200</pubDate>
       
-      <guid>https://sshanshans.github.io/blog/4/</guid>
+      <guid>https://sshanshans.github.io/VirtualTea/blog/4/</guid>
       <description>09/17 TH 3:15PM Abstract The field of quantum information and quantum computation has made tremendous progress towards maturing from a theoretical curiosity into a physical reality.</description>
     </item>
     
     <item>
       <title>#3: Matthew Junge</title>
-      <link>https://sshanshans.github.io/blog/3/</link>
+      <link>https://sshanshans.github.io/VirtualTea/blog/3/</link>
       <pubDate>Wed, 09 Sep 2020 11:40:11 +0200</pubDate>
       
-      <guid>https://sshanshans.github.io/blog/3/</guid>
+      <guid>https://sshanshans.github.io/VirtualTea/blog/3/</guid>
       <description>09/09 W 3:15PM </description>
     </item>
     
     <item>
       <title>Upcoming Events</title>
-      <link>https://sshanshans.github.io/static/imprint/</link>
+      <link>https://sshanshans.github.io/VirtualTea/static/imprint/</link>
       <pubDate>Mon, 07 Sep 2020 11:12:00 +0200</pubDate>
       
-      <guid>https://sshanshans.github.io/static/imprint/</guid>
+      <guid>https://sshanshans.github.io/VirtualTea/static/imprint/</guid>
       <description>#1: Open House (08/27 TH 3:15PM) #2: Student Research (09/03 TH 3:15PM) #3: Matthew Junge (09/09 W 3:15PM) #4: Narayanan Rengaswamy (09/17 TH 3:15PM) #5: Amy Nussbaum (09/24 TH 3:15PM) #6: Studnet Research (10/01 TH 3:15PM) #7: Orsola Capovilla-Searle (10/08 TH 3:15PM) </description>
     </item>
     
     <item>
       <title>#2: Student Research</title>
-      <link>https://sshanshans.github.io/blog/2/</link>
+      <link>https://sshanshans.github.io/VirtualTea/blog/2/</link>
       <pubDate>Thu, 03 Sep 2020 11:40:11 +0200</pubDate>
       
-      <guid>https://sshanshans.github.io/blog/2/</guid>
+      <guid>https://sshanshans.github.io/VirtualTea/blog/2/</guid>
       <description>09/03 TH 3:15PM </description>
     </item>
     
     <item>
       <title>#1: Open House</title>
-      <link>https://sshanshans.github.io/blog/1/</link>
+      <link>https://sshanshans.github.io/VirtualTea/blog/1/</link>
       <pubDate>Thu, 27 Aug 2020 11:17:14 +0200</pubDate>
       
-      <guid>https://sshanshans.github.io/blog/1/</guid>
+      <guid>https://sshanshans.github.io/VirtualTea/blog/1/</guid>
       <description>08/27 TH 3:15PM </description>
     </item>
     

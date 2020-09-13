@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Statics on Math/Stat Virtual Tea</title>
-    <link>https://sshanshans.github.io/static/</link>
+    <link>https://sshanshans.github.io/VirtualTea/static/</link>
     <description>Recent content in Statics on Math/Stat Virtual Tea</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright> </copyright>
     <lastBuildDate>Mon, 07 Sep 2020 11:12:00 +0200</lastBuildDate>
     
-	<atom:link href="https://sshanshans.github.io/static/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sshanshans.github.io/VirtualTea/static/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Upcoming Events</title>
-      <link>https://sshanshans.github.io/static/imprint/</link>
+      <link>https://sshanshans.github.io/VirtualTea/static/imprint/</link>
       <pubDate>Mon, 07 Sep 2020 11:12:00 +0200</pubDate>
       
-      <guid>https://sshanshans.github.io/static/imprint/</guid>
+      <guid>https://sshanshans.github.io/VirtualTea/static/imprint/</guid>
       <description>#1: Open House (08/27 TH 3:15PM) #2: Student Research (09/03 TH 3:15PM) #3: Matthew Junge (09/09 W 3:15PM) #4: Narayanan Rengaswamy (09/17 TH 3:15PM) #5: Amy Nussbaum (09/24 TH 3:15PM) #6: Studnet Research (10/01 TH 3:15PM) #7: Orsola Capovilla-Searle (10/08 TH 3:15PM) </description>
     </item>
     
