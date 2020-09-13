@@ -1,0 +1,64 @@
+baseURL = "https://sshanshans.github.io/"
+languageCode = "en-us"
+title = "Math/Stat Virtual Tea"
+theme = "mediumish-gohugo-theme"
+summaryLength = 25
+copyright = " "
+enableEmoji = true
+publishDir = "docs"
+#disqusShortname = "your-shortname-here"
+#googleAnalytics = "UA-1XXXXXXX1-1"
+
+[params]
+  #logo = ""
+  #description =""
+  #mailchimp = "you can provide a mailchimp-link here"
+
+[params.author]
+  #name = ""
+  #thumbnail = ""
+  #description = "Creator of this blog."
+
+[params.index]
+  picture = "/images/author.png"
+  title = "Math/Stat Virtual Tea"
+  subtitle = "Mount Holyoke College"
+  mdtext = '''
+
+The virtual seminars (mostly) take place on \
+Thursdays 3:15PM - 4:30PM EST
+
+To register for our events and get recorded videos of the past events, kindly email\
+Sheila Heady, our department coordinator, srheady@mtholyoke.edu
+
+If you would like to speak at our seminar, or suggest a speaker, please contact the
+tea organizers: \
+Alanna Hoyer-Leitzel: ahoyerle@mtholyoke.edu \
+Shan Shan: sshan@mtholyoke.edu \
+Derek Young: dyoung@mtholyoke.edu
+
+
+Check out more information and resources from the department at: \
+https://www.mtholyoke.edu/acad/math
+'''
+  alertbar = false
+
+[params.social]
+  #github = "<username>"
+  #linkedin = "<username>"
+  #xing = "<username>"
+  #medium = "<username>"
+  #twitter = "<username>"
+  #instagram = "<username>"
+
+## Main Menu
+[[menu.main]]
+    name = "Past"
+    weight = 100
+    identifier = "blog"
+    url = "/blog"
+[[menu.main]]
+    name = "Upcoming"
+    identifier = "imprint"
+    weight = 200
+    url = "/static/imprint"

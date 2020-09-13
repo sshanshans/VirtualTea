@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Error correction on Math/Stat Virtual Tea</title>
+    <link>https://sshanshans.github.io/tags/error-correction/</link>
+    <description>Recent content in Error correction on Math/Stat Virtual Tea</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright> </copyright>
+    <lastBuildDate>Thu, 10 Sep 2020 11:40:11 +0200</lastBuildDate>
+    
+	<atom:link href="https://sshanshans.github.io/tags/error-correction/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>#4: Narayanan Rengaswamy</title>
+      <link>https://sshanshans.github.io/blog/4/</link>
+      <pubDate>Thu, 10 Sep 2020 11:40:11 +0200</pubDate>
+      
+      <guid>https://sshanshans.github.io/blog/4/</guid>
+      <description>09/17 TH 3:15PM Abstract The field of quantum information and quantum computation has made tremendous progress towards maturing from a theoretical curiosity into a physical reality.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Covid on Math/Stat Virtual Tea</title>
+    <link>https://sshanshans.github.io/tags/covid/</link>
+    <description>Recent content in Covid on Math/Stat Virtual Tea</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright> </copyright>
+    <lastBuildDate>Wed, 09 Sep 2020 11:40:11 +0200</lastBuildDate>
+    
+	<atom:link href="https://sshanshans.github.io/tags/covid/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>#3: Matthew Junge</title>
+      <link>https://sshanshans.github.io/blog/3/</link>
+      <pubDate>Wed, 09 Sep 2020 11:40:11 +0200</pubDate>
+      
+      <guid>https://sshanshans.github.io/blog/3/</guid>
+      <description>09/09 W 3:15PM </description>
+    </item>
+    
+  </channel>
+</rss>
