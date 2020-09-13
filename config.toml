@@ -1,4 +1,4 @@
-baseURL = "https://sshanshans.github.io/"
+baseURL = "https://sshanshans.github.io/VirtualTea"
 languageCode = "en-us"
 title = "Math/Stat Virtual Tea"
 theme = "mediumish-gohugo-theme"
