@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright> </copyright>
-    <lastBuildDate>Thu, 10 Sep 2020 11:40:11 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2020 11:40:11 +0200</lastBuildDate>
     
 	<atom:link href="https://sshanshans.github.io/VirtualTea/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Census</title>
+      <link>https://sshanshans.github.io/VirtualTea/tags/census/</link>
+      <pubDate>Sat, 12 Sep 2020 11:40:11 +0200</pubDate>
+      
+      <guid>https://sshanshans.github.io/VirtualTea/tags/census/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://sshanshans.github.io/VirtualTea/tags/research/</link>
+      <pubDate>Sat, 12 Sep 2020 11:40:11 +0200</pubDate>
+      
+      <guid>https://sshanshans.github.io/VirtualTea/tags/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistics</title>
+      <link>https://sshanshans.github.io/VirtualTea/tags/statistics/</link>
+      <pubDate>Sat, 12 Sep 2020 11:40:11 +0200</pubDate>
+      
+      <guid>https://sshanshans.github.io/VirtualTea/tags/statistics/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Error correction</title>
@@ -27,15 +54,6 @@
       <pubDate>Thu, 10 Sep 2020 11:40:11 +0200</pubDate>
       
       <guid>https://sshanshans.github.io/VirtualTea/tags/quantum-computing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Research</title>
-      <link>https://sshanshans.github.io/VirtualTea/tags/research/</link>
-      <pubDate>Thu, 10 Sep 2020 11:40:11 +0200</pubDate>
-      
-      <guid>https://sshanshans.github.io/VirtualTea/tags/research/</guid>
       <description></description>
     </item>
     

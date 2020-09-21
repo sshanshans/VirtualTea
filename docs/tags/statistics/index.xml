@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Statistics on Math/Stat Virtual Tea</title>
+    <link>https://sshanshans.github.io/VirtualTea/tags/statistics/</link>
+    <description>Recent content in Statistics on Math/Stat Virtual Tea</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright> </copyright>
+    <lastBuildDate>Sat, 12 Sep 2020 11:40:11 +0200</lastBuildDate>
+    
+	<atom:link href="https://sshanshans.github.io/VirtualTea/tags/statistics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>#4: Amy Nussbaum</title>
+      <link>https://sshanshans.github.io/VirtualTea/blog/5/</link>
+      <pubDate>Sat, 12 Sep 2020 11:40:11 +0200</pubDate>
+      
+      <guid>https://sshanshans.github.io/VirtualTea/blog/5/</guid>
+      <description>09/17 TH 3:15PM Abstract You’ve heard about the 2020 Census, and you’ve heard about statistics, but what do they have to do with each other? We will talk about the United States’ federal statistical system focusing specifically on the Census Bureau and their ongoing data collection activities, and we will discuss ways that everyone, students included, can use Census Bureau data as a public good.</description>
+    </item>
+    
+  </channel>
+</rss>
